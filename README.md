@@ -1,2 +1,2 @@
 # CompostingOrganicWastes
-Repository created to share the dataset referring to the article "Composting changes chemical and microbiological attributes of agro-industrial organic wastes according to their source".
+Repository created to share the dataset referring to the article "Physicochemical and bacterial changes during composting of vegetable and animal-derived agro-industrial wastes" on the Bioresource Technology Journal.
